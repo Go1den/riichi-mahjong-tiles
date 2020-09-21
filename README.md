@@ -8,6 +8,8 @@ The Japanese tileset contains traditional Riichi Mahjong tiles and assumes a bas
 ![Japanese Tiles](https://github.com/Go1den/riichi-mahjong-tiles/blob/master/Japanese/1man.png?raw=true)
 ![Japanese Tiles](https://github.com/Go1den/riichi-mahjong-tiles/blob/master/Japanese/5pin.png?raw=true)
 ![Japanese Tiles](https://github.com/Go1den/riichi-mahjong-tiles/blob/master/Japanese/9so.png?raw=true)
+![Japanese Tiles](https://github.com/Go1den/riichi-mahjong-tiles/blob/master/Japanese/e.png?raw=true)
+![Japanese Tiles](https://github.com/Go1den/riichi-mahjong-tiles/blob/master/Japanese/g.png?raw=true)
 
 The international tileset includes numbers and letters to help beginner players who cannot read Kanji.
 
