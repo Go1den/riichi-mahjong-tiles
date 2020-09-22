@@ -1,8 +1,8 @@
 # riichi-mahjong-tiles
 Images of both Japanese and international mahjong tiles specifically for the game of riichi mahjong.
 
-All large images are 150x200px in .png format.
-All medium images are 75x100px in .png format.
+All large images are 150x200px in .png format.  
+All medium images are 75x100px in .png format.  
 All small images are 37x50px in .png format.
 
 The Japanese tileset contains traditional Riichi Mahjong tiles and assumes a basic understanding of the Japanese language.
